@@ -4,8 +4,8 @@
 
 //
 // Please run as follows:
-// > gcc -o Problem2 Problem2.c
-// > ./Problem2
+// > gcc -o mediansortandbenchmarks mediansortandbenchmarks.c
+// > ./mediansortandbenchmarks
 
 // Function declarations
 int *randomarray(int n, int max);
