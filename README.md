@@ -1,5 +1,11 @@
 # Median-Sort-in-C
-Understanding the Median Sort
+Understanding the Median Sort:
+
+	Calculating the median of a given random array
+	Sorting the array by recursive median computations
+	Searching the sorted array for given element: Naive search
+	Searching by chop search
+	Benchmarks for naive search and chop search
 
 -----------------------------------------------------------------------------------------------
 Please enter the number of elements:
