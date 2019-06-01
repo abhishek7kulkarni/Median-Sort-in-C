@@ -2,8 +2,6 @@
 #include<stdlib.h>
 #include <sys/time.h>
 
-// Student No.: 18200536
-// Problem 2
 //
 // Please run as follows:
 // > gcc -o Problem2 Problem2.c
